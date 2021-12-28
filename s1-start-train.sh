@@ -1,0 +1,1 @@
+python train.py --data pet.yaml  --weights yolov5s.pt --img 640
