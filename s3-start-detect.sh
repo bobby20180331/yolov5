@@ -1,0 +1,1 @@
+python3 detect.py --weights pet2kyolov5n.pt --source /data/ai/datasets/devtest/ --conf-thres 0.5
