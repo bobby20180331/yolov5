@@ -36,7 +36,7 @@ def convert(data,name,json_path):
 # for all the json file in the file paths:
 
 if __name__ == "__main__":
-    json_path='/data/ai/datasets/pet2k/devtest/'
+    json_path='/data/ai/datasets/devtest/'
     datanames = os.listdir(json_path)
 
    ## ## make sure delete all related txt files in the file path first.
