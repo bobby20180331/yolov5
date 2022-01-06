@@ -1,1 +1,1 @@
-python export.py --weights pet2kyolov5s.pt   --include onnx
+python export.py --weights pet2kyolov5n.pt   --include onnx
