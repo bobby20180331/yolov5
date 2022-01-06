@@ -1,0 +1,1 @@
+python3 -m onnxsim /data/ai/yolov5/pet2kyolov5n.onnx  /data/ai/yolov5/pet2kyolov5n_simsh.onnx
